@@ -18,7 +18,7 @@ Used tight-polling to continually monitor our zones, interrupts to interact with
 
 
 # Design Schematics and PCB Layout: 
-Used Diptrace to create these design schematics. 
+Used Diptrace to create these design schematics. Actually ran into problems with our design that needed to be fixed via. directly cutting traces on the board and using flywires to correct our connections - incorrectly mapped our sound detection component to a non-analog pin, as an example. Can see in above photos that there are some thin wires that stretch over and around the top of the board, those are our flywires for impromptu fixes. The below pictures are our original schematics, pre-fix. 
 
 ![ece2984](https://user-images.githubusercontent.com/31193217/71362375-d85a2d80-2563-11ea-82d3-6bf5613a2e17.png)
 ![ece2985](https://user-images.githubusercontent.com/31193217/71362376-da23f100-2563-11ea-82bd-581a2cbd9d3c.png)
